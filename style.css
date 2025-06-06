@@ -1,0 +1,22 @@
+h1{
+font-family: cursive;
+color: white;
+background:linear-gradient(to left, green, yellow) 
+
+
+
+}
+body{
+    background-color:black;
+}
+
+
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-family: fantasy;
+    border: blue;
+    border-style:inset;
+    border-width: 5px;
+    border-radius: 10px;
+}
