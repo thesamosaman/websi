@@ -1,0 +1,33 @@
+h1{
+font-family: cursive;
+color:paleturquoise;
+text-shadow: 5px 0px 5px green;
+
+
+
+}
+body{
+    background-color:black;
+}
+
+
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-family: fantasy;
+    border: blue;
+    border-style:inset;
+    border-width: 5px;
+    border-radius: 10px;
+    font-style: italic;
+   
+
+}
+img{
+    float:right ;
+
+}
+
+button{
+    border-radius: 10px;
+}
